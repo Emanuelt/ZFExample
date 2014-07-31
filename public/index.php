@@ -23,3 +23,5 @@ $application = new Zend_Application(
 );
 $application->bootstrap()
             ->run();
+
+// Test by Emanuel
